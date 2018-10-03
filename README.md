@@ -2,4 +2,4 @@
 Owen Dunn and Brandon Griggs <br>
 CIS 357 <br>
 10/3/18 <br>
-Making ConversionCalcPretty
+Making ConversionCalc Pretty
