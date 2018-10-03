@@ -1,6 +1,5 @@
-# HW3-final
+# 357-HW4
 Owen Dunn and Brandon Griggs <br>
 CIS 357 <br>
-9/24/18 <br>
-Calculator Conversion Application
-# 357-HW4
+10/3/18 <br>
+Making ConversionCalcPretty
